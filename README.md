@@ -4,7 +4,7 @@
 
 This project is a random password generator built with React.js for dynamic user interface interactions and Tailwind CSS for rapid and responsive styling. The application allows users to generate secure, customizable passwords to enhance their online security.
 
-![Project Screenshot](path/to/your/image.png)
+![Project Screenshot](./Screenshot 2024-08-11 000258.png)
 
 ## Features
 
